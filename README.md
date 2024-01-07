@@ -1,8 +1,7 @@
 # tesla-stocks-prediction
-zespul:
-\nKamil orRwAt
-\nJakuB kRzemInski
-\nkOsmA CieLIczkO
-\nklasa 3B
-nie chce sie sformatoawc
-
+predyktuje sredniom
+zespul:\
+Kamil orRwAt\
+JakuB kRzemInski\
+*nkOsmA CieLIczko\
+klasa 3B\
