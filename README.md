@@ -1,6 +1,6 @@
 # tesla-stocks-prediction
 zespul:
-Kamil orRwAt
-JakuB kRzemInski
-kOsmA CieLIczkO
-klasa 3B
+\nKamil orRwAt
+\nJakuB kRzemInski
+\nkOsmA CieLIczkO
+\nklasa 3B
